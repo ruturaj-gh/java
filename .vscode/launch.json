@@ -1,0 +1,56 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Launch search",
+      "request": "launch",
+      "mainClass": "search",
+      "projectName": "java_5d579501"
+    },
+    {
+      "type": "java",
+      "name": "Launch recursion_problems",
+      "request": "launch",
+      "mainClass": "recursion_problems",
+      "projectName": "java_5d579501"
+    },
+    {
+      "type": "java",
+      "name": "Launch Solutionninja",
+      "request": "launch",
+      "mainClass": "Solutionninja",
+      "projectName": "java_5d579501"
+    },
+    {
+      "type": "java",
+      "name": "Launch trytrashjava",
+      "request": "launch",
+      "mainClass": "trytrashjava",
+      "projectName": "java_5d579501"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [
+        ""
+      ],
+      "stopAtEntry": false,
+      "cwd": "c:/Users/HP/Documents/java",
+      "environment": [],
+      "program": "c:/Users/HP/Documents/java/build/Debug/outDebug",
+      "internalConsoleOptions": "openOnSessionStart",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "externalConsole": false,
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
